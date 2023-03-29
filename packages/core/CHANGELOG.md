@@ -1,5 +1,14 @@
 # @wagmi/core
 
+## 0.10.8
+
+### Patch Changes
+
+- [#2085](https://github.com/wagmi-dev/wagmi/pull/2085) [`7d64e3f`](https://github.com/wagmi-dev/wagmi/commit/7d64e3f538a6149777bfa84ea9435769b2a7db58) Thanks [@jxom](https://github.com/jxom)! - Fixed an issue where multicall would not throw if the target chain was not configured on the wagmi client.
+
+- Updated dependencies []:
+  - @wagmi/connectors@0.3.10
+
 ## 0.10.7
 
 ### Patch Changes
